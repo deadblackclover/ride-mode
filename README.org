@@ -1,0 +1,24 @@
+#+TITLE: ride-mode
+
+[[https://melpa.org/#/ride-mode][file:https://melpa.org/packages/ride-mode-badge.svg]]
+[[https://img.shields.io/badge/GNU%20Emacs-25.1-b48ead.svg]]
+
+Emacs major-mode for editing RIDE language
+
+* Install
+
+** Melpa
+
+~ride-mode~ is available from
+Melpa. After [[https://melpa.org/#/getting-started][setting up]] Melpa
+as a repository and update the local package list, you can install
+~ride-mode~ and its dependencies using ~M-x package-install ride-mode~.
+
+** Manually
+
+Add ~ride-mode~ to your ~load-path~ and require. Something like:
+
+#+BEGIN_SRC emacs-lisp
+  (add-to-list 'load-path "path/to/ride-mode/")
+  (require 'ride-mode)
+#+END_SRC

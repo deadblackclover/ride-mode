@@ -1,6 +1,6 @@
 #+TITLE: ride-mode
 
-[[https://melpa.org/#/ride-mode][file:https://melpa.org/packages/ride-mode-badge.svg]]
+[[https://melpa.org/#/ride-mode][https://melpa.org/packages/ride-mode-badge.svg]]
 [[https://img.shields.io/badge/GNU%20Emacs-25.1-b48ead.svg]]
 
 Emacs major-mode for editing RIDE language

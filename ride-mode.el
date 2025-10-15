@@ -4,7 +4,7 @@
 
 ;; Author: DEADBLACKCLOVER <deadblackclover@protonmail.com>
 ;; Version: 0.1.0
-;; URL: https://codeberg.org/deadblackclover/ride-mode
+;; URL: https://github.com/deadblackclover/ride-mode
 ;; Keywords: languages
 ;; Package-Requires: ((emacs "25.1"))
 
